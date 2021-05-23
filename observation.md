@@ -167,5 +167,12 @@
         - avg_cur_bal
             
     - Random Forest -
+        - grade
+        - dti
+        - mo_sin_old_rev_tl_op
+        - revol_util
+        - avg_cur_bal
 
 - Ensemble Technique
+    ![image](https://user-images.githubusercontent.com/35030280/119269885-954c3000-bc17-11eb-9d5a-fb88dcf01f99.png)
+
