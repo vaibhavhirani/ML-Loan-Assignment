@@ -123,7 +123,7 @@
             home_ownership MORTGAGE
             ```
 
-- Models and their performance
+- Models and their baseline performance
     - Gaussian Naive Bayes <br>
         ![image](https://user-images.githubusercontent.com/33449491/119264793-24e6e400-bc02-11eb-919d-69715de04fb3.png)
         <br>
@@ -137,5 +137,16 @@
         ![image](https://user-images.githubusercontent.com/33449491/119265044-f0275c80-bc02-11eb-80e3-7f561fa58035.png)
         <br>
     - Multilayer Perceptron <br>
+        
+        <br>
+        
+ - Best 3 models and their performance after feature engineering
+    - Logistic Regression <br>
+        ![image](https://user-images.githubusercontent.com/33449491/119265662-1bab4680-bc05-11eb-9fde-307f4505f2a1.png)
+        <br>
+    - Decision Tree <br>
+        ![image](https://user-images.githubusercontent.com/33449491/119265556-d424ba80-bc04-11eb-99d3-ddf1e8dfd31e.png)
+        <br>
+    - Random Forest <br>
         
         <br>
