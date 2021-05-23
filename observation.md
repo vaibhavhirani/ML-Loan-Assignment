@@ -158,12 +158,18 @@
         - debt_settlement_flag_N
         - total_il_high_credit_limit
         - num_rev_accts
+        <br>
+        ![image](https://user-images.githubusercontent.com/33449491/119267233-3ed8f480-bc0b-11eb-8655-b2b4de761121.png)
+        <br>
     - Decision Tree -
         - debt_settlement_flag_N
         - grade
         - dti
         - mo_sin_old_rev_tl_op
         - avg_cur_bal
+        <br>
+        ![image](https://user-images.githubusercontent.com/33449491/119267251-54e6b500-bc0b-11eb-8dea-c66a1c404a60.png)
+        <br>
             
     - Random Forest -
 
