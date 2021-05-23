@@ -131,13 +131,13 @@
         ![image](https://user-images.githubusercontent.com/33449491/119264864-6b3c4300-bc02-11eb-958b-4428ea33a038.png)
         <br>
     - Random Forest <br>
-        
+        ![image](https://user-images.githubusercontent.com/33449491/119267076-da1d9a00-bc0a-11eb-9382-951afe293794.png)
         <br>
     - Logistic Regression <br>
         ![image](https://user-images.githubusercontent.com/33449491/119265044-f0275c80-bc02-11eb-80e3-7f561fa58035.png)
         <br>
     - Multilayer Perceptron <br>
-        
+        ![image](https://user-images.githubusercontent.com/33449491/119267101-eb66a680-bc0a-11eb-8970-2c6e80f13dbc.png)
         <br>
         
  - Best 3 models and their performance after feature engineering
@@ -148,5 +148,23 @@
         ![image](https://user-images.githubusercontent.com/33449491/119265556-d424ba80-bc04-11eb-99d3-ddf1e8dfd31e.png)
         <br>
     - Random Forest <br>
-        
+        ![image](https://user-images.githubusercontent.com/33449491/119267118-fa4d5900-bc0a-11eb-90fc-4ceb7cb40f99.png)
         <br>
+        
+- Feature ranking by models
+    - Logistic Regression -
+        - annual_inc
+        - total_bc_limit
+        - debt_settlement_flag_N
+        - total_il_high_credit_limit
+        - num_rev_accts
+    - Decision Tree -
+        - debt_settlement_flag_N
+        - grade
+        - dti
+        - mo_sin_old_rev_tl_op
+        - avg_cur_bal
+            
+    - Random Forest -
+
+- Ensemble Technique
